@@ -1,7 +1,7 @@
-needs_setup: true
+needs_setup: false
 
 # this is set to the name of your repo during setup, you can change it later on using the rename tool
-project_name: template
+project_name: universal-modular-daq
 
 # this holds all the name of the projects in the repo
 # as kicad only allow on PCB per project and lets say
@@ -21,7 +21,7 @@ project_name: template
 #   - template
 #   - template_2
 # ========================================================
-sub_pcb_names: 
+sub_pcb_names:
 
 # this is a list of the production formats that you would like
 # honestly only use gerbers, i doubt i will add anything else
